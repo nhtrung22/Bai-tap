@@ -1,3 +1,4 @@
+--HTML
 # Bài thực hành số 1
 
 - Headings
@@ -5,4 +6,7 @@
 - Paragraphs
   - Thẻ p dùng để xác định một đoạn văn bản. Mặc định, phần tử <p> được thiết lập một khoảng cách ở lề trên và lề dưới, khiến các đoạn văn bản tách rời nhau, giúp dễ dàng phân 
   
-    biệt được các đoạn văn bản.
+    biệt được các đoạn văn bản
+- Divisions
+  - Thẻ div dùng để chứa nhiều phần tử lại với nhau
+  --
