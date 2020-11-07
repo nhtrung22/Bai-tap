@@ -24,4 +24,4 @@
 - Images
   - Thẻ `<img />` để chèn một hình ảnh vào trong website
   - Thẻ `<img />` thường đi cùng với thuộc tính `src` để hiện thị đường dẫn
-  - Ta có thể điều chỉnh kích thước của ảnh bằng các thuộc tính `width``height`
+  - Ta có thể điều chỉnh kích thước của ảnh bằng các thuộc tính `width` và `height`
