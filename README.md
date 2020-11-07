@@ -5,7 +5,7 @@
 - Paragraphs
   - Thẻ `<p></p>` dùng để xác định một đoạn văn bản. Mặc định, phần tử <p> được thiết lập một khoảng cách ở lề trên và lề dưới, khiến các đoạn văn bản tách rời nhau, giúp dễ dàng
   
-  phân 
+    phân 
   
     biệt được các đoạn văn bản
 - Divisions
