@@ -15,8 +15,8 @@
 - Strong
   - Thẻ `<strong></strong>` dùng để in nghiêng một đoạn chữ
 - Links
-  - Thẻ `<link />` xác định mối quan hệ giữa một tài liệu HTML và các tài nguyên bên ngoài.
-  - Thẻ `<link />` được dùng phổ biến nhất là link tới tài liệu css.
+  - Thẻ `<link />` xác định mối quan hệ giữa một tài liệu HTML và các tài nguyên bên ngoài
+  - Thẻ `<link />` được dùng phổ biến nhất là link tới tài liệu css
   - Thẻ `<link />` được viết bên trong tag `<head>`
 - Lists
   - Thẻ `<li>` dùng để xác định một "danh mục" trong danh sách.
